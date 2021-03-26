@@ -1,16 +1,18 @@
-# Hi there 👋,
+# Hi there 👋,I'm Rahul
 
 <!--
-**RahulSChauhan50/RahulSChauhan50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ...
+**RahulSChauhan50/RahulSChauhan50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- - 😄 Pronouns: ...
+- - ⚡ Fun fact: ...
+-->
+
+- 🔭 I’m currently working on **Android APP Develoment**
+- 🌱 I’m currently learning **Machine Learning**
+- 👯 I’m looking to collaborate on **Any Project that includes the below mentioned technologies**
+- 💬 Ask me about **Anthing that includes the below mentioned technologies**
+- 📫 How to reach me: Reach me through below mentioned **linkedIN** link.
+
 
 ## Connect with me: [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="25" width="25" title="linkedin.com/in/rahul-s-chauhan-005223199/"/>](https://www.linkedin.com/in/rahul-s-chauhan-005223199/)
 ## Languages and Other Stuff on which I have worked : 
@@ -27,3 +29,5 @@
 [<img src="https://www.searchpng.com/wp-content/uploads/2019/02/Bootstrap-Logo-PNG.png" height="40" width="40" title="Bootstrap"/>](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 [<img src="https://png2.cleanpng.com/sh/3ca4c1832982d162800322f917dcd725/L0KzQYm3U8MxN5NqiZH0aYP2gLBuTf1qa6N0i9HvdD3kisb5hb10eZ0yfNN9YXLkg7a0jflkepD4h9h9LYP0fH76hgJ3baMyfNN9YXLkg7a0VfFjbZJqe9cEZHa5SYq1UscyOWE3Uag6NUK1RIW9UMMxPmU8RuJ3Zx==/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece9df699.271102961522446030647.png" height="40" width="40" title="SQL"/>](https://www.w3schools.com/sql/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="40" width="60" title="Arduino"/>](https://www.arduino.cc/en/Tutorial/HomePage)
+
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulSChauhan50&hide=issues,prs,stars&show_icons=true&theme=prussian&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
