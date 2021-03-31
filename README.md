@@ -27,7 +27,7 @@
 [<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" height="40" width="40" title="Android Studio(Java)"/>](https://developer.android.com/guide/components/activities/intro-activities)
 [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" width="40" title="Git"/>](https://git-scm.com/doc)
 [<img src="https://www.searchpng.com/wp-content/uploads/2019/02/Bootstrap-Logo-PNG.png" height="40" width="40" title="Bootstrap"/>](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-[<img src="https://png2.cleanpng.com/sh/3ca4c1832982d162800322f917dcd725/L0KzQYm3U8MxN5NqiZH0aYP2gLBuTf1qa6N0i9HvdD3kisb5hb10eZ0yfNN9YXLkg7a0jflkepD4h9h9LYP0fH76hgJ3baMyfNN9YXLkg7a0VfFjbZJqe9cEZHa5SYq1UscyOWE3Uag6NUK1RIW9UMMxPmU8RuJ3Zx==/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece9df699.271102961522446030647.png" height="40" width="40" title="SQL"/>](https://www.w3schools.com/sql/)
+[<img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-7.png" height="40" width="40" title="SQL"/>](https://www.w3schools.com/sql/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="40" width="60" title="Arduino"/>](https://www.arduino.cc/en/Tutorial/HomePage)
 
 [ <img src="https://github-readme-stats.vercel.app/api?username=RahulSChauhan50&hide=issues,prs,stars&show_icons=true&theme=prussian&border_radius=25" title="Rahul's Stats"/>](https://github-readme-stats.vercel.app/api?username=RahulSChauhan50&hide=issues,prs,stars&show_icons=true&theme=prussian&border_radius=25)
