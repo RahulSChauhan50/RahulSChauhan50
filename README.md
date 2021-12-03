@@ -26,7 +26,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="40" width="50" title="Redux"/>](https://redux.js.org/)
 [<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" height="40" width="40" title="Android Studio(Java)"/>](https://developer.android.com/guide/components/activities/intro-activities)
 [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" width="40" title="Git"/>](https://git-scm.com/doc)
-[<img src="https://www.searchpng.com/wp-content/uploads/2019/02/Bootstrap-Logo-PNG.png" height="40" width="40" title="Bootstrap"/>](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" height="40" width="40" title="Bootstrap"/>](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 [<img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-7.png" height="40" width="40" title="SQL"/>](https://www.w3schools.com/sql/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="40" width="60" title="Arduino"/>](https://www.arduino.cc/en/Tutorial/HomePage)
 
