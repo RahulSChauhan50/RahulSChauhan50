@@ -1,4 +1,7 @@
 # Hi there 👋,I'm Rahul
+<h3 align="center">A passionate Android App and MERN Stack Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulSChauhan50&label=Profile%20views&color=0e75b6&style=flat" alt="RahulSChauhan50" title="Rahul's Profile Views"/> </p>
 
 <!--
 **RahulSChauhan50/RahulSChauhan50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
