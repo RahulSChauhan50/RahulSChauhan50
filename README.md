@@ -18,7 +18,7 @@
 
 
 ## Connect with me: [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="25" width="25" title="linkedin.com/in/rahul-s-chauhan-005223199/"/>](https://www.linkedin.com/in/rahul-s-chauhan-005223199/)
-## Languages and Other Stuff on which I have worked : 
+## Languages and Frameworks on which I have worked : 
 [<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="40" width="40" title="C Language"/>](https://devdocs.io/c/)
 [<img src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp-490x490.png" height="40" width="40" title="C++ Language"/>](https://devdocs.io/cpp/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="40" width="40" title="Python Language"/>](https://docs.python.org/3/)
