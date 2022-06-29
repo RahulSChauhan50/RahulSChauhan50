@@ -17,7 +17,7 @@
 - 📫 How to reach me: Reach me through below mentioned **linkedIN** link.
 
 
-## Connect with me: [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="25" width="25" title="linkedin.com/in/rahul-s-chauhan-005223199/"/>](https://www.linkedin.com/in/rahul-s-chauhan-005223199/)
+## Connect with me: [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30" width="30" title="linkedin.com/in/rahul-s-chauhan-005223199/"/>](https://www.linkedin.com/in/rahul-s-chauhan-005223199/)
 ## Languages and Frameworks on which I have worked : 
 [<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" height="40" width="40" title="Android Studio(Java)"/>](https://developer.android.com/guide/components/activities/intro-activities)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="40" width="60" title="React Native"/>](https://reactnative.dev/docs/getting-started)
