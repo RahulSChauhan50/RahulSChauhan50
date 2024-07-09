@@ -17,7 +17,7 @@
 - 📫 How to reach me: Reach me through below mentioned **linkedIN** link.
 
 
-## Connect with me: [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30" width="30" title="linkedin.com/in/rahul-s-chauhan-005223199/"/>](https://www.linkedin.com/in/rahul-s-chauhan-005223199/)
+## Connect with me: [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/rahul-s-chauhan-005223199/)
 ## Languages and Frameworks on which I have worked : 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,express,aws,firebase,sass,redux,py,postman,mysql,mongodb,kotlin,java,graphql,git,cpp,bootstrap,&perline=20)](https://skillicons.dev)
 
