@@ -18,6 +18,13 @@
 
 
 ## Connect with me: [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/rahul-s-chauhan-005223199/)
+
+## Visit My Portfolio
+
+To learn more about me, explore my projects, and see what I've been working on, please visit my developer portfolio:
+
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=web&logoColor=white)](https://rahulschauhan50.github.io/RahulSChauhan-portfolio/)
+
 ## Languages and Frameworks on which I have worked : 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,express,aws,firebase,sass,redux,py,postman,mysql,mongodb,kotlin,java,graphql,git,cpp,bootstrap,&perline=20)](https://skillicons.dev)
 
